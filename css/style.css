@@ -7,7 +7,7 @@ body {
   padding-top: 1em;
   text-align: center;
   background-color: black;
-  /* background-image: url('../img/dungeonhell.png'); */
+  background-image: url('../img/dungeonhell.png');
   background-size: cover;
   background-repeat: space;
 }
@@ -19,7 +19,7 @@ h1, h2 {
 }
 
 canvas {
-  /* background-image: url('../img/stone.png'); */
+  background-image: url('https://placekitten.com/500/700');
   background-repeat: repeat;
   background-color: #222;
   width: 100%;
